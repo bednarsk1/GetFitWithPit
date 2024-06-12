@@ -1,0 +1,11 @@
+Brutal strength, muscles like rocks
+
+
+-new page for personal trainning 
+{
+    text:     My personal training focuses on personalized exercises aimed at
+              improving fitness, strength and flexibility, taking into account
+              your individual needs and goals.
+}
+
+-slide in animations =  https://www.youtube.com/watch?v=T33NN_pPeNI&ab_channel=BeyondFireship
